@@ -1,9 +1,14 @@
 {
   "leetcode": {
-    "easy": 3,
+    "easy": 4,
     "hard": 0,
     "medium": 2,
     "shas": {
+      "0003-longest-substring-without-repeating-characters": {
+        "0003-longest-substring-without-repeating-characters.py": "e6ab0c212c117913cd9ba146c64ce1d9a5d7e387",
+        "README.md": "49ea3bfcb92b637481942ae8c24dd7c2f96a335a",
+        "difficulty": "medium"
+      },
       "0027-remove-element": {
         "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
         "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
@@ -25,17 +30,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "22a318161efaa5577a0791e9e6d1f562f14f78c9"
+        "": "7a051170411f887f193b734510cd8ce010b5d5db"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0003-longest-substring-without-repeating-characters": {
-        "difficulty": "medium",
-        "0003-longest-substring-without-repeating-characters.py": "e6ab0c212c117913cd9ba146c64ce1d9a5d7e387",
-        "README.md": "49ea3bfcb92b637481942ae8c24dd7c2f96a335a"
+      "0584-find-customer-referee": {
+        "difficulty": "easy",
+        "0584-find-customer-referee.sql": "945bf9ab92ecec6a5a1930b9a3ad4f42925eff9c",
+        "README.md": "a09a787464e71bdfdee06c9146ea3032d76d6119"
       }
     },
-    "solved": 5
+    "solved": 6
   }
 }
