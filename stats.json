@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 6,
+    "easy": 7,
     "hard": 0,
     "medium": 2,
     "shas": {
@@ -24,6 +24,11 @@
         "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d",
         "difficulty": "easy"
       },
+      "0234-palindrome-linked-list": {
+        "0234-palindrome-linked-list.py": "bd126acdf487059a7659cdfb06a21a36c1b1a1f2",
+        "README.md": "c14258d54e3250c3f1b56178dfaf39708efda2ba",
+        "difficulty": "easy"
+      },
       "0584-find-customer-referee": {
         "0584-find-customer-referee.sql": "945bf9ab92ecec6a5a1930b9a3ad4f42925eff9c",
         "README.md": "a09a787464e71bdfdee06c9146ea3032d76d6119",
@@ -40,17 +45,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "c0f8fabe21fc98a385ff4a065a6542746040acba"
+        "": "91c38038ea2a577f1c9d41da70ee685561535612"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0234-palindrome-linked-list": {
+      "0595-big-countries": {
         "difficulty": "easy",
-        "0234-palindrome-linked-list.py": "bd126acdf487059a7659cdfb06a21a36c1b1a1f2",
-        "README.md": "c14258d54e3250c3f1b56178dfaf39708efda2ba"
+        "0595-big-countries.sql": "9082b18671b36e226d30c2e68bfb7f3300114839",
+        "README.md": "541ff20a957f9fbeccaf4d2cfc85b801421fff7e"
       }
     },
-    "solved": 8
+    "solved": 9
   }
 }
