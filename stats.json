@@ -1,9 +1,14 @@
 {
   "leetcode": {
-    "easy": 20,
+    "easy": 21,
     "hard": 1,
     "medium": 11,
     "shas": {
+      "0001-two-sum": {
+        "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
+        "README.md": "c5ae2440722b84783aa386d28f5f42e495005bf9",
+        "difficulty": "easy"
+      },
       "0002-add-two-numbers": {
         "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
         "README.md": "5cc605c354685a7498f7b9309f5c7feccd80c4b8",
@@ -160,17 +165,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "2765049d343f87e7ca3aeaedf0aef506fa081002"
+        "": "bba2a8f0936ac2fa3f774613404315473365054d"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0001-two-sum": {
+      "1068-product-sales-analysis-i": {
         "difficulty": "easy",
-        "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
-        "README.md": "c5ae2440722b84783aa386d28f5f42e495005bf9"
+        "1068-product-sales-analysis-i.sql": "b4aaa1957814160f2e398cd5df033bc764d9cb92",
+        "README.md": "dcbb023e17a9cea69bd42384d093cc7c4cc2ed09"
       }
     },
-    "solved": 32
+    "solved": 33
   }
 }
