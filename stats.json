@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 9,
+    "easy": 10,
     "hard": 0,
     "medium": 2,
     "shas": {
@@ -44,6 +44,11 @@
         "README.md": "541ff20a957f9fbeccaf4d2cfc85b801421fff7e",
         "difficulty": "easy"
       },
+      "0705-design-hashset": {
+        "0705-design-hashset.py": "b85c7cc20eb11678c8499a0340d00a14f4f89abe",
+        "README.md": "5ccef7556bb603549c3228febe5168c4a041b182",
+        "difficulty": "easy"
+      },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
         "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
@@ -55,17 +60,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "3efc890ca940697036ca3493b28962345f87bb55"
+        "": "5131931d2b392c23f4c79861a3211e6deca89419"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0705-design-hashset": {
+      "1683-invalid-tweets": {
         "difficulty": "easy",
-        "0705-design-hashset.py": "b85c7cc20eb11678c8499a0340d00a14f4f89abe",
-        "README.md": "5ccef7556bb603549c3228febe5168c4a041b182"
+        "1683-invalid-tweets.sql": "0479a01c1b1190485e90ff67d3cef7399a7c2f16",
+        "README.md": "1550fa1bcaa78e99ef3ecdc1b391bae5c9938186"
       }
     },
-    "solved": 11
+    "solved": 12
   }
 }
