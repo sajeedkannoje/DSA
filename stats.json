@@ -1,0 +1,26 @@
+{
+  "leetcode": {
+    "easy": 1,
+    "hard": 0,
+    "medium": 1,
+    "shas": {
+      "1621-number-of-sets-of-k-non-overlapping-line-segments": {
+        "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
+        "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
+        "difficulty": "medium"
+      },
+      "README.md": {
+        "": "cec25e74a24cbf901a3a8790daed71dce844d653"
+      },
+      "stats.json": {
+        "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
+      },
+      "1757-recyclable-and-low-fat-products": {
+        "difficulty": "easy",
+        "1757-recyclable-and-low-fat-products.sql": "2739a427039fa90d547e984ffb8ee4e23b4f95b4",
+        "README.md": "e5ed6fd0111029bde19a0024a40671825dfeaa92"
+      }
+    },
+    "solved": 2
+  }
+}
