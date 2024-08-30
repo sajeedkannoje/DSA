@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 21,
+    "easy": 22,
     "hard": 1,
     "medium": 12,
     "shas": {
@@ -109,6 +109,11 @@
         "README.md": "7df9afc733fb71579fabc6470e7661ef6b6f319e",
         "difficulty": "medium"
       },
+      "0167-two-sum-ii-input-array-is-sorted": {
+        "0167-two-sum-ii-input-array-is-sorted.py": "e1aa92ad6103c226b394471da2379e9ad5e2a74d",
+        "README.md": "39b4526a459785597fe3d5282d52fd6a9efb8b1a",
+        "difficulty": "medium"
+      },
       "0206-reverse-linked-list": {
         "0206-reverse-linked-list.py": "60e3805da2df8f6f97a248997cba3f40ed155841",
         "README.md": "16b76d7c1eef3e00f3b27de2e7c3ddd9a1d2d371",
@@ -170,17 +175,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "cab6c34675b8345a0622a54b868d0c6aa4a9a395"
+        "": "7a03529122018073fe23e919597dbffc7446ce0c"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0167-two-sum-ii-input-array-is-sorted": {
-        "difficulty": "medium",
-        "0167-two-sum-ii-input-array-is-sorted.py": "e1aa92ad6103c226b394471da2379e9ad5e2a74d",
-        "README.md": "39b4526a459785597fe3d5282d52fd6a9efb8b1a"
+      "1581-customer-who-visited-but-did-not-make-any-transactions": {
+        "difficulty": "easy",
+        "1581-customer-who-visited-but-did-not-make-any-transactions.sql": "b16cbd6a0228e4b00cabf9d597d226adc17ee3d0",
+        "README.md": "b0d9899e5c9aa3b575faabb01964fd0d6b9e9ff2"
       }
     },
-    "solved": 34
+    "solved": 35
   }
 }
