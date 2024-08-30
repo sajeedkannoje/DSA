@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 15,
+    "easy": 16,
     "hard": 0,
     "medium": 9,
     "shas": {
@@ -53,6 +53,11 @@
         "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
         "README.md": "441da42286d2257ec2a78abb6d27754add9722fd",
         "difficulty": "easy"
+      },
+      "0073-set-matrix-zeroes": {
+        "0073-set-matrix-zeroes.py": "3ac7565b22c7b7289f99f4c52b06b2a9a0a98fed",
+        "README.md": "373ae2e7769bcd5153eff0ae73bcbee9171aa297",
+        "difficulty": "medium"
       },
       "0083-remove-duplicates-from-sorted-list": {
         "0083-remove-duplicates-from-sorted-list.py": "51d91107ceabf79d503603c83c99eeb08f8b2e72",
@@ -120,17 +125,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "b5a103003164b8b2a9441d571241015b73fc2309"
+        "": "417a556c838fd07cfeaae0cec6ffc38a02e920a0"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0073-set-matrix-zeroes": {
-        "difficulty": "medium",
-        "0073-set-matrix-zeroes.py": "3ac7565b22c7b7289f99f4c52b06b2a9a0a98fed",
-        "README.md": "373ae2e7769bcd5153eff0ae73bcbee9171aa297"
+      "1378-replace-employee-id-with-the-unique-identifier": {
+        "difficulty": "easy",
+        "1378-replace-employee-id-with-the-unique-identifier.sql": "1e48ffc7517a08df25cece8a0a76665eb0110ae2",
+        "README.md": "8f612b8c9ed6a4dba3e3f069ef0733e847c9cde3"
       }
     },
-    "solved": 24
+    "solved": 25
   }
 }
