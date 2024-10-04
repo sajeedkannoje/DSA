@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 22,
+    "easy": 23,
     "hard": 1,
     "medium": 12,
     "shas": {
@@ -159,6 +159,11 @@
         "README.md": "8f612b8c9ed6a4dba3e3f069ef0733e847c9cde3",
         "difficulty": "easy"
       },
+      "1581-customer-who-visited-but-did-not-make-any-transactions": {
+        "1581-customer-who-visited-but-did-not-make-any-transactions.sql": "b16cbd6a0228e4b00cabf9d597d226adc17ee3d0",
+        "README.md": "b0d9899e5c9aa3b575faabb01964fd0d6b9e9ff2",
+        "difficulty": "easy"
+      },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
         "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
@@ -175,17 +180,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "7a03529122018073fe23e919597dbffc7446ce0c"
+        "": "50f7f0794aab707b4f223d521d6cc2bb95324add"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "1581-customer-who-visited-but-did-not-make-any-transactions": {
+      "0009-palindrome-number": {
         "difficulty": "easy",
-        "1581-customer-who-visited-but-did-not-make-any-transactions.sql": "b16cbd6a0228e4b00cabf9d597d226adc17ee3d0",
-        "README.md": "b0d9899e5c9aa3b575faabb01964fd0d6b9e9ff2"
+        "0009-palindrome-number.cpp": "4c4740b18da7fc1aeab02e06a1027f1c2f70ee46",
+        "README.md": "9e5520425a462a3b94e8f0ab1a2de9a746b4936b"
       }
     },
-    "solved": 35
+    "solved": 36
   }
 }
