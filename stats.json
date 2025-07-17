@@ -1,7 +1,7 @@
 {
   "leetcode": {
     "easy": 16,
-    "hard": 0,
+    "hard": 1,
     "medium": 9,
     "shas": {
       "0002-add-two-numbers": {
@@ -109,6 +109,11 @@
         "README.md": "400af45776b06b71d5dc059b3fa024a71e846361",
         "difficulty": "easy"
       },
+      "1378-replace-employee-id-with-the-unique-identifier": {
+        "1378-replace-employee-id-with-the-unique-identifier.sql": "1e48ffc7517a08df25cece8a0a76665eb0110ae2",
+        "README.md": "8f612b8c9ed6a4dba3e3f069ef0733e847c9cde3",
+        "difficulty": "easy"
+      },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
         "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
@@ -125,17 +130,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "417a556c838fd07cfeaae0cec6ffc38a02e920a0"
+        "": "6fe65e196c7b813deed458b4dd40c71c3b64bd75"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "1378-replace-employee-id-with-the-unique-identifier": {
-        "difficulty": "easy",
-        "1378-replace-employee-id-with-the-unique-identifier.sql": "1e48ffc7517a08df25cece8a0a76665eb0110ae2",
-        "README.md": "8f612b8c9ed6a4dba3e3f069ef0733e847c9cde3"
+      "0004-median-of-two-sorted-arrays": {
+        "difficulty": "hard",
+        "0004-median-of-two-sorted-arrays.py": "66102c985aaca90ff8cbb3c2e150b39937ee6c60",
+        "README.md": "988c634f589a0742654984ff95ef95d732b190c9"
       }
     },
-    "solved": 25
+    "solved": 26
   }
 }
