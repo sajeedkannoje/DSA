@@ -111,6 +111,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/sajeedkannoje/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
