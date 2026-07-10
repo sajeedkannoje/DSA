@@ -79,6 +79,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0002-add-two-numbers](https://github.com/sajeedkannoje/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sajeedkannoje/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +97,14 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 ---

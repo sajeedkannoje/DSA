@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 12,
+    "easy": 13,
     "hard": 0,
     "medium": 5,
     "shas": {
@@ -12,6 +12,11 @@
       "0003-longest-substring-without-repeating-characters": {
         "0003-longest-substring-without-repeating-characters.py": "e6ab0c212c117913cd9ba146c64ce1d9a5d7e387",
         "README.md": "49ea3bfcb92b637481942ae8c24dd7c2f96a335a",
+        "difficulty": "medium"
+      },
+      "0007-reverse-integer": {
+        "0007-reverse-integer.cpp": "0f5cb90b74a5558b6f2d84ba999691da6cd4fb20",
+        "README.md": "d29243dde609c35e3d85d7361f981be9cca47b89",
         "difficulty": "medium"
       },
       "0013-roman-to-integer": {
@@ -85,17 +90,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "2a18520938c331110f0a93891f55f42a959aa6e5"
+        "": "7d382b97126602d9b1949bf4cd02775f97a08aa9"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0007-reverse-integer": {
-        "difficulty": "medium",
-        "0007-reverse-integer.cpp": "0f5cb90b74a5558b6f2d84ba999691da6cd4fb20",
-        "README.md": "d29243dde609c35e3d85d7361f981be9cca47b89"
+      "0070-climbing-stairs": {
+        "difficulty": "easy",
+        "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
+        "README.md": "441da42286d2257ec2a78abb6d27754add9722fd"
       }
     },
-    "solved": 17
+    "solved": 18
   }
 }
