@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 10,
+    "easy": 11,
     "hard": 0,
     "medium": 2,
     "shas": {
@@ -54,23 +54,28 @@
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
         "difficulty": "medium"
       },
+      "1683-invalid-tweets": {
+        "1683-invalid-tweets.sql": "0479a01c1b1190485e90ff67d3cef7399a7c2f16",
+        "README.md": "1550fa1bcaa78e99ef3ecdc1b391bae5c9938186",
+        "difficulty": "easy"
+      },
       "1757-recyclable-and-low-fat-products": {
         "1757-recyclable-and-low-fat-products.sql": "2739a427039fa90d547e984ffb8ee4e23b4f95b4",
         "README.md": "e5ed6fd0111029bde19a0024a40671825dfeaa92",
         "difficulty": "easy"
       },
       "README.md": {
-        "": "5131931d2b392c23f4c79861a3211e6deca89419"
+        "": "ae35cf6bb2e505da0b24b8c7cf4b74253da2c011"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "1683-invalid-tweets": {
+      "0026-remove-duplicates-from-sorted-array": {
         "difficulty": "easy",
-        "1683-invalid-tweets.sql": "0479a01c1b1190485e90ff67d3cef7399a7c2f16",
-        "README.md": "1550fa1bcaa78e99ef3ecdc1b391bae5c9938186"
+        "0026-remove-duplicates-from-sorted-array.py": "cb0b149f34299433c1fe3c572dc3028b04fa5e2a",
+        "README.md": "29e48cf92153bb8378657df7068b121e63b8ee94"
       }
     },
-    "solved": 12
+    "solved": 13
   }
 }
