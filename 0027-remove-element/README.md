@@ -1,0 +1,220 @@
+<div align="center">
+
+# 🧩 27 · Remove Element
+
+### A clear solution, a reusable pattern, and a lesson worth remembering.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/problems/remove-element/) [![Topic](https://img.shields.io/badge/Topic-Array-0F766E?style=flat-square)](#-pattern-recognition) [![Language](https://img.shields.io/badge/Language-Python3-2563EB?style=flat-square)](#-solution)
+
+**Difficulty:** Easy · **Status:** Solved
+
+</div>
+
+---
+
+## 🎯 Problem summary
+
+<h2><a href="https://leetcode.com/problems/remove-element/">27. Remove Element</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>. The order of the elements may be changed. Then return <em>the number of elements in </em><code>nums</code><em> which are not equal to </em><code>val</code>.</p>
+
+<p>Consider the number of elements in <code>nums</code> which are not equal to <code>val</code> be <code>k</code>, to get accepted, you need to do the following things:</p>
+
+<ul>
+	<li>Change the array <code>nums</code> such that the first <code>k</code> elements of <code>nums</code> contain the elements which are not equal to <code>val</code>. The remaining elements of <code>nums</code> are not important as well as the size of <code>nums</code>.</li>
+	<li>Return <code>k</code>.</li>
+</ul>
+
+<p><strong>Custom Judge:</strong></p>
+
+<p>The judge will test your solution with the following code:</p>
+
+<pre>
+int[] nums = [...]; // Input array
+int val = ...; // Value to remove
+int[] expectedNums = [...]; // The expected answer with correct length.
+                            // It is sorted with no values equaling val.
+
+int k = removeElement(nums, val); // Calls your implementation
+
+assert k == expectedNums.length;
+sort(nums, 0, k); // Sort the first k elements of nums
+for (int i = 0; i &lt; actualLength; i++) {
+    assert nums[i] == expectedNums[i];
+}
+</pre>
+
+<p>If all assertions pass, then your solution will be <strong>accepted</strong>.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [3,2,2,3], val = 3
+<strong>Output:</strong> 2, nums = [2,2,_,_]
+<strong>Explanation:</strong> Your function should return k = 2, with the first two elements of nums being 2.
+It does not matter what you leave beyond the returned k (hence they are underscores).
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [0,1,2,2,3,0,4,2], val = 2
+<strong>Output:</strong> 5, nums = [0,1,4,0,3,_,_,_]
+<strong>Explanation:</strong> Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4.
+Note that the five elements can be returned in any order.
+It does not matter what you leave beyond the returned k (hence they are underscores).
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
+	<li><code>0 &lt;= val &lt;= 100</code></li>
+</ul>
+
+
+### Given, return & examples
+
+Use the original problem statement above as the source of truth. Add a representative example and the key constraints when reviewing this question.
+
+## 📌 Constraints
+
+- Add the constraints that influence the approach.
+- Record any sortedness, uniqueness, or range guarantees.
+- Explain what they tell you about a practical solution.
+
+---
+
+## 🧭 Pattern recognition
+
+### Primary pattern: **Array**
+
+**Related topics:** `Array` `Two Pointers`
+
+- Add the clue in the question that suggests this pattern.
+- Add why this approach fits better than alternatives.
+
+## 💡 Intuition
+
+1. **Observation:** Add the key property.
+2. **Key idea:** Explain what the algorithm does with it.
+3. **Why it works:** Record the invariant or correctness argument.
+4. **Stopping condition:** Record when it can safely return.
+
+**Memory hook:** > Add a short phrase to recall this technique.
+
+---
+
+## 🪜 Approach
+
+### Approach A — Brute force
+
+Add a simple baseline only when it helps explain the optimized solution.
+
+### Approach B — Accepted solution
+
+Describe the repeated work or extra storage avoided by the submitted solution.
+
+## 🧪 Dry run
+
+| Step | Current state | Decision / action | Result |
+|---:|---|---|---|
+| 1 | Add a small example | Track relevant variables | Add outcome |
+
+---
+
+## 💻 Solution
+
+### 🏆 Submission performance
+
+| Metric | Details |
+|---|---|
+| Status | ✅ Accepted |
+| Submitted | 9/6/2026, 10:41:30 AM |
+| Language | Python3 |
+| Runtime | 0 ms · Beats 100.00% |
+| Memory | 19.4 MB · Beats 20.18% |
+| Runtime percentile | 100.00% |
+| Memory percentile | 20.18% |
+
+> Performance values come from this accepted submission and can vary between runs.
+
+### My solution
+
+```python3
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        n = len(nums)
+        idx = 0
+        for i in range(n):
+            if nums[i] != val:
+                nums[idx] = nums[i]
+                idx += 1
+        return idx
+```
+
+### Code walkthrough
+
+| Code section | Purpose |
+|---|---|
+| Key variable / loop | Add why it is needed |
+| Core operation | Add what it guarantees |
+| Return condition | Add why the answer is correct |
+
+---
+
+## ⏱️ Complexity analysis
+
+| Approach | Time complexity | Auxiliary space | Reason |
+|---|---|---|---|
+| Accepted solution | Add after review | Add after review | Base this on the submitted code |
+
+## 🧯 Edge cases & validation
+
+| Case | Expected behavior |
+|---|---|
+| Minimum valid input | Add result |
+| Boundary or duplicate values | Add result |
+| No-match / empty case, if allowed | Add result |
+
+## ⚠️ Common mistakes
+
+- Add the most likely off-by-one, duplicate-handling, or pointer-movement error.
+- Add one high-value check before submitting.
+
+## 🔁 Revision notes
+
+<details open>
+<summary><strong>30-second recap</strong></summary>
+
+- **Pattern:** Array
+- **Core idea:** Add one sentence after review.
+- **Critical invariant:** Add what must remain true.
+- **Complexity:** Add actual complexity.
+- **Memory hook:** Add a recall phrase.
+
+</details>
+
+### Active recall
+
+1. What clue suggests this pattern?
+2. Why is the algorithm correct?
+3. What are its time and auxiliary-space costs?
+4. Which edge case is easiest to mishandle?
+
+## 🔗 Related practice
+
+Add only problems that genuinely reinforce the same pattern.
+
+---
+
+<div align="center">
+
+**One problem. One pattern. One lesson retained.**
+
+[← Back to CodeVault](https://github.com/sajeedkannoje/leetcode)
+
+<sub>Made with ♥ by Sajeed Kannoje · CodeVault</sub>
+
+</div>
