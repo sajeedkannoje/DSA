@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 21,
     "hard": 1,
-    "medium": 11,
+    "medium": 12,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
@@ -139,6 +139,11 @@
         "README.md": "ed475b8f78a2d85f317aff22ab1949afcf6ebe38",
         "difficulty": "easy"
       },
+      "1068-product-sales-analysis-i": {
+        "1068-product-sales-analysis-i.sql": "b4aaa1957814160f2e398cd5df033bc764d9cb92",
+        "README.md": "dcbb023e17a9cea69bd42384d093cc7c4cc2ed09",
+        "difficulty": "easy"
+      },
       "1148-article-views-i": {
         "1148-article-views-i.sql": "09fc2ba309c4e5c4cdd8dfe231c06f422043c690",
         "README.md": "400af45776b06b71d5dc059b3fa024a71e846361",
@@ -165,17 +170,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "bba2a8f0936ac2fa3f774613404315473365054d"
+        "": "cab6c34675b8345a0622a54b868d0c6aa4a9a395"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "1068-product-sales-analysis-i": {
-        "difficulty": "easy",
-        "1068-product-sales-analysis-i.sql": "b4aaa1957814160f2e398cd5df033bc764d9cb92",
-        "README.md": "dcbb023e17a9cea69bd42384d093cc7c4cc2ed09"
+      "0167-two-sum-ii-input-array-is-sorted": {
+        "difficulty": "medium",
+        "0167-two-sum-ii-input-array-is-sorted.py": "e1aa92ad6103c226b394471da2379e9ad5e2a74d",
+        "README.md": "39b4526a459785597fe3d5282d52fd6a9efb8b1a"
       }
     },
-    "solved": 33
+    "solved": 34
   }
 }
