@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 4,
+    "easy": 5,
     "hard": 0,
     "medium": 2,
     "shas": {
@@ -19,6 +19,11 @@
         "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d",
         "difficulty": "easy"
       },
+      "0584-find-customer-referee": {
+        "0584-find-customer-referee.sql": "945bf9ab92ecec6a5a1930b9a3ad4f42925eff9c",
+        "README.md": "a09a787464e71bdfdee06c9146ea3032d76d6119",
+        "difficulty": "easy"
+      },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
         "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
@@ -30,17 +35,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "7a051170411f887f193b734510cd8ce010b5d5db"
+        "": "53f40b1304dde96f3c29d771eddbe0cf495c60dd"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0584-find-customer-referee": {
+      "0013-roman-to-integer": {
         "difficulty": "easy",
-        "0584-find-customer-referee.sql": "945bf9ab92ecec6a5a1930b9a3ad4f42925eff9c",
-        "README.md": "a09a787464e71bdfdee06c9146ea3032d76d6119"
+        "0013-roman-to-integer.py": "c929efc6194e152ec774a156bce0c5091e6bbe67",
+        "README.md": "b9a023d0e6a6fd25636ff7556ce3cbad699ab1e7"
       }
     },
-    "solved": 6
+    "solved": 7
   }
 }
