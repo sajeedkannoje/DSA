@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 13,
     "hard": 0,
-    "medium": 5,
+    "medium": 6,
     "shas": {
       "0002-add-two-numbers": {
         "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
@@ -37,6 +37,11 @@
       "0027-remove-element": {
         "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
         "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
+        "difficulty": "easy"
+      },
+      "0070-climbing-stairs": {
+        "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
+        "README.md": "441da42286d2257ec2a78abb6d27754add9722fd",
         "difficulty": "easy"
       },
       "0125-valid-palindrome": {
@@ -90,17 +95,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "7d382b97126602d9b1949bf4cd02775f97a08aa9"
+        "": "ae6c789d3b71798328d198eee22fc290b6bc28b3"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0070-climbing-stairs": {
-        "difficulty": "easy",
-        "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
-        "README.md": "441da42286d2257ec2a78abb6d27754add9722fd"
+      "0151-reverse-words-in-a-string": {
+        "difficulty": "medium",
+        "0151-reverse-words-in-a-string.py": "beff5f00832d7d7d3194ccd7e5c21fe68e6bc7da",
+        "README.md": "7df9afc733fb71579fabc6470e7661ef6b6f319e"
       }
     },
-    "solved": 18
+    "solved": 19
   }
 }

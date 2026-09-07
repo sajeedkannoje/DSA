@@ -43,6 +43,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0027-remove-element](https://github.com/sajeedkannoje/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
