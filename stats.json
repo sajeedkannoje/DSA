@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 34,
+    "easy": 35,
     "hard": 1,
     "medium": 21,
     "shas": {
@@ -88,6 +88,11 @@
         "0036-valid-sudoku.py": "7fc7788e88226df29b1c70f146475f04ec35ec64",
         "README.md": "ef531ff3336ad56f9731cb5daff920b6e4f91f47",
         "difficulty": "medium"
+      },
+      "0058-length-of-last-word": {
+        "0058-length-of-last-word.js": "486eb9c998b5292673fdb019d57de5ef957896ea",
+        "README.md": "0ff33eff11392b8a14f7a6724c08117edb8ce9dd",
+        "difficulty": "easy"
       },
       "0066-plus-one": {
         "0066-plus-one.py": "d89580fd770ccaff5ce062db48e78138609115a1",
@@ -280,17 +285,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "b33a571584880ea0b8ae7d49ab80cc066481ab7c"
+        "": "c9687ab7c013da4e2c358da10330310b7b3732ba"
       },
       "stats.json": {
         "": "800a6eaf179bbe3101de47a612b393ba5ea9d3c0"
       },
-      "0058-length-of-last-word": {
+      "0202-happy-number": {
         "difficulty": "easy",
-        "0058-length-of-last-word.js": "486eb9c998b5292673fdb019d57de5ef957896ea",
-        "README.md": "0ff33eff11392b8a14f7a6724c08117edb8ce9dd"
+        "0202-happy-number.py": "6d0aaddd2728e319bc834fb0f9669d8a045996eb",
+        "README.md": "8ce8aaa3b2ee1d8865febb5c904433e36f9c6b74"
       }
     },
-    "solved": 56
+    "solved": 57
   }
 }

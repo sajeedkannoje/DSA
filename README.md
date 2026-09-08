@@ -70,6 +70,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sajeedkannoje/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -83,6 +84,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sajeedkannoje/DSA/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/sajeedkannoje/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/sajeedkannoje/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
@@ -105,6 +107,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/sajeedkannoje/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -137,6 +140,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sajeedkannoje/DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
