@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 17,
+    "easy": 18,
     "hard": 1,
     "medium": 9,
     "shas": {
@@ -47,6 +47,11 @@
       "0027-remove-element": {
         "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
         "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
+        "difficulty": "easy"
+      },
+      "0028-find-the-index-of-the-first-occurrence-in-a-string": {
+        "0028-find-the-index-of-the-first-occurrence-in-a-string.py": "934ab1e519d60f3ba43771dd9ea9cc0c243a3da8",
+        "README.md": "609d8ce16ab745e7e37bc5ec7dbeec878293d934",
         "difficulty": "easy"
       },
       "0034-find-first-and-last-position-of-element-in-sorted-array": {
@@ -135,17 +140,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "e594fff051c1b8fb3bc11e68bb9813d9edd66356"
+        "": "7f0a8eb2c0a99fb88891d793da587f1ebf2abb02"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0028-find-the-index-of-the-first-occurrence-in-a-string": {
+      "0088-merge-sorted-array": {
         "difficulty": "easy",
-        "0028-find-the-index-of-the-first-occurrence-in-a-string.py": "934ab1e519d60f3ba43771dd9ea9cc0c243a3da8",
-        "README.md": "609d8ce16ab745e7e37bc5ec7dbeec878293d934"
+        "0088-merge-sorted-array.py": "7c160b26866165cff9d61b9006086fc3ea9948aa",
+        "README.md": "1eb462c524655897bd2950029acd3f8b146c0125"
       }
     },
-    "solved": 27
+    "solved": 28
   }
 }

@@ -39,6 +39,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0027-remove-element](https://github.com/sajeedkannoje/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sajeedkannoje/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -152,6 +154,10 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
 
 ---
