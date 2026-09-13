@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 23,
     "hard": 1,
-    "medium": 12,
+    "medium": 13,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
@@ -28,6 +28,11 @@
         "0007-reverse-integer.cpp": "0f5cb90b74a5558b6f2d84ba999691da6cd4fb20",
         "README.md": "d29243dde609c35e3d85d7361f981be9cca47b89",
         "difficulty": "medium"
+      },
+      "0009-palindrome-number": {
+        "0009-palindrome-number.cpp": "4c4740b18da7fc1aeab02e06a1027f1c2f70ee46",
+        "README.md": "9e5520425a462a3b94e8f0ab1a2de9a746b4936b",
+        "difficulty": "easy"
       },
       "0011-container-with-most-water": {
         "0011-container-with-most-water.py": "e48eb91d1c78125a434f914d0826bffc38ae0f93",
@@ -180,17 +185,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "50f7f0794aab707b4f223d521d6cc2bb95324add"
+        "": "fad609a13bc0ad4310a880c1e6156c553a0ee4ec"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0009-palindrome-number": {
-        "difficulty": "easy",
-        "0009-palindrome-number.cpp": "4c4740b18da7fc1aeab02e06a1027f1c2f70ee46",
-        "README.md": "9e5520425a462a3b94e8f0ab1a2de9a746b4936b"
+      "0036-valid-sudoku": {
+        "difficulty": "medium",
+        "0036-valid-sudoku.py": "7fc7788e88226df29b1c70f146475f04ec35ec64",
+        "README.md": "ef531ff3336ad56f9731cb5daff920b6e4f91f47"
       }
     },
-    "solved": 36
+    "solved": 37
   }
 }

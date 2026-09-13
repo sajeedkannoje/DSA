@@ -41,6 +41,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sajeedkannoje/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sajeedkannoje/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0001-two-sum](https://github.com/sajeedkannoje/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sajeedkannoje/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sajeedkannoje/DSA/tree/master/0146-lru-cache) |
@@ -148,6 +150,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sajeedkannoje/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
