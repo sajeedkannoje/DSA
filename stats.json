@@ -1,9 +1,14 @@
 {
   "leetcode": {
-    "easy": 2,
+    "easy": 3,
     "hard": 0,
     "medium": 1,
     "shas": {
+      "0027-remove-element": {
+        "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
+        "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
+        "difficulty": "easy"
+      },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
         "1621-number-of-sets-of-k-non-overlapping-line-segments.py": "3046ef18518d0cbc4cc75095695f1c697bf07073",
         "README.md": "0dc965745c22eb615f8c9ef10e56172fe82c95a3",
@@ -15,17 +20,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "bd1c1fa1c6c28ed3cb07145cc30d51942768b088"
+        "": "2528e444fd7702ae533046b4360e8bb3d2f2b81b"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0027-remove-element": {
+      "0141-linked-list-cycle": {
         "difficulty": "easy",
-        "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
-        "README.md": "a70ebbd83082f934acb75e697c387b297425c048"
+        "0141-linked-list-cycle.py": "d82afb1bc427ba5b496042e71012d4706062cea6",
+        "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d"
       }
     },
-    "solved": 3
+    "solved": 4
   }
 }
