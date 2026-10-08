@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 23,
     "hard": 1,
-    "medium": 13,
+    "medium": 14,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
@@ -72,6 +72,11 @@
       "0034-find-first-and-last-position-of-element-in-sorted-array": {
         "0034-find-first-and-last-position-of-element-in-sorted-array.py": "7ba20c4fc3cf4ae0430db40901d2ec3bf18b9e17",
         "README.md": "afb3b12fe56b650a447a33c9852610df6165a739",
+        "difficulty": "medium"
+      },
+      "0036-valid-sudoku": {
+        "0036-valid-sudoku.py": "7fc7788e88226df29b1c70f146475f04ec35ec64",
+        "README.md": "ef531ff3336ad56f9731cb5daff920b6e4f91f47",
         "difficulty": "medium"
       },
       "0070-climbing-stairs": {
@@ -185,17 +190,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "fad609a13bc0ad4310a880c1e6156c553a0ee4ec"
+        "": "e41b8f6f7bc25724947cafeae39be6a811fdb5d6"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0036-valid-sudoku": {
+      "0082-remove-duplicates-from-sorted-list-ii": {
         "difficulty": "medium",
-        "0036-valid-sudoku.py": "7fc7788e88226df29b1c70f146475f04ec35ec64",
-        "README.md": "ef531ff3336ad56f9731cb5daff920b6e4f91f47"
+        "0082-remove-duplicates-from-sorted-list-ii.py": "37910bce031530cf7dd2f7149f7ac58104fd7cfb",
+        "README.md": "9f480bdb3dd50491d96147d917b4b5ac517d9758"
       }
     },
-    "solved": 37
+    "solved": 38
   }
 }

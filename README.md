@@ -54,6 +54,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sajeedkannoje/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sajeedkannoje/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
@@ -78,6 +79,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0002-add-two-numbers](https://github.com/sajeedkannoje/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sajeedkannoje/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/sajeedkannoje/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sajeedkannoje/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sajeedkannoje/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sajeedkannoje/DSA/tree/master/0146-lru-cache) |
