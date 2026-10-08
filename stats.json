@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 18,
+    "easy": 19,
     "hard": 1,
     "medium": 10,
     "shas": {
@@ -37,6 +37,11 @@
       "0019-remove-nth-node-from-end-of-list": {
         "0019-remove-nth-node-from-end-of-list.py": "6c05da1058adcab2e8ae663259d8c253232e3eac",
         "README.md": "856ea34f2f263cc1b9145036fda062a82e1851a7",
+        "difficulty": "medium"
+      },
+      "0024-swap-nodes-in-pairs": {
+        "0024-swap-nodes-in-pairs.py": "d154c55bbd8d732ec6696196eb7ee8d86d8c2e18",
+        "README.md": "bdeac666111393d9535bffc8ed56cc8e0bf8633f",
         "difficulty": "medium"
       },
       "0026-remove-duplicates-from-sorted-array": {
@@ -145,17 +150,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "9ee58722a6aa5646e0389ca046e8dbd7af126b01"
+        "": "ae66741bd79b4daee221e5a6bad1d1bf072aed8b"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0024-swap-nodes-in-pairs": {
-        "difficulty": "medium",
-        "0024-swap-nodes-in-pairs.py": "d154c55bbd8d732ec6696196eb7ee8d86d8c2e18",
-        "README.md": "bdeac666111393d9535bffc8ed56cc8e0bf8633f"
+      "0206-reverse-linked-list": {
+        "difficulty": "easy",
+        "0206-reverse-linked-list.py": "60e3805da2df8f6f97a248997cba3f40ed155841",
+        "README.md": "16b76d7c1eef3e00f3b27de2e7c3ddd9a1d2d371"
       }
     },
-    "solved": 29
+    "solved": 30
   }
 }
