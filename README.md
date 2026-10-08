@@ -59,6 +59,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | ------- |
 | [0002-add-two-numbers](https://github.com/sajeedkannoje/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sajeedkannoje/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sajeedkannoje/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
