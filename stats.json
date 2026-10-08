@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 18,
     "hard": 1,
-    "medium": 9,
+    "medium": 10,
     "shas": {
       "0002-add-two-numbers": {
         "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
@@ -74,6 +74,11 @@
         "README.md": "8c60be9c53d272c510f5fef76b3d769fba5f06e3",
         "difficulty": "easy"
       },
+      "0088-merge-sorted-array": {
+        "0088-merge-sorted-array.py": "7c160b26866165cff9d61b9006086fc3ea9948aa",
+        "README.md": "1eb462c524655897bd2950029acd3f8b146c0125",
+        "difficulty": "easy"
+      },
       "0125-valid-palindrome": {
         "0125-valid-palindrome.py": "6eda74b5102b769b171ab09b82bed8a8ad26a700",
         "README.md": "a5a54321c51fba66c59ad16180af7a1990d26e99",
@@ -140,17 +145,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "7f0a8eb2c0a99fb88891d793da587f1ebf2abb02"
+        "": "9ee58722a6aa5646e0389ca046e8dbd7af126b01"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0088-merge-sorted-array": {
-        "difficulty": "easy",
-        "0088-merge-sorted-array.py": "7c160b26866165cff9d61b9006086fc3ea9948aa",
-        "README.md": "1eb462c524655897bd2950029acd3f8b146c0125"
+      "0024-swap-nodes-in-pairs": {
+        "difficulty": "medium",
+        "0024-swap-nodes-in-pairs.py": "d154c55bbd8d732ec6696196eb7ee8d86d8c2e18",
+        "README.md": "bdeac666111393d9535bffc8ed56cc8e0bf8633f"
       }
     },
-    "solved": 28
+    "solved": 29
   }
 }
