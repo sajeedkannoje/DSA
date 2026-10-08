@@ -2,8 +2,13 @@
   "leetcode": {
     "easy": 11,
     "hard": 0,
-    "medium": 3,
+    "medium": 4,
     "shas": {
+      "0002-add-two-numbers": {
+        "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
+        "README.md": "5cc605c354685a7498f7b9309f5c7feccd80c4b8",
+        "difficulty": "medium"
+      },
       "0003-longest-substring-without-repeating-characters": {
         "0003-longest-substring-without-repeating-characters.py": "e6ab0c212c117913cd9ba146c64ce1d9a5d7e387",
         "README.md": "49ea3bfcb92b637481942ae8c24dd7c2f96a335a",
@@ -70,17 +75,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "1b095f3c7f934afb5db172b620b9001e798f9fdb"
+        "": "b18aeb119390e8a73d666e0752a2518f588f107f"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0002-add-two-numbers": {
+      "0019-remove-nth-node-from-end-of-list": {
         "difficulty": "medium",
-        "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
-        "README.md": "5cc605c354685a7498f7b9309f5c7feccd80c4b8"
+        "0019-remove-nth-node-from-end-of-list.py": "6c05da1058adcab2e8ae663259d8c253232e3eac",
+        "README.md": "856ea34f2f263cc1b9145036fda062a82e1851a7"
       }
     },
-    "solved": 14
+    "solved": 15
   }
 }
