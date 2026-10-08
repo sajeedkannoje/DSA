@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 35,
+    "easy": 36,
     "hard": 1,
     "medium": 22,
     "shas": {
@@ -214,6 +214,11 @@
         "README.md": "23258d0040e60670fc0f1ad615c86b508b29502a",
         "difficulty": "easy"
       },
+      "0438-find-all-anagrams-in-a-string": {
+        "0438-find-all-anagrams-in-a-string.py": "0dff87254829c38c67f365be1c05640913875795",
+        "README.md": "764ee87ef07ae2d5d320b9f8190d7cb37831da95",
+        "difficulty": "medium"
+      },
       "0584-find-customer-referee": {
         "0584-find-customer-referee.sql": "945bf9ab92ecec6a5a1930b9a3ad4f42925eff9c",
         "README.md": "a09a787464e71bdfdee06c9146ea3032d76d6119",
@@ -290,17 +295,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "41b2f3c3c9bf5c844d0e7cd3af9e53dc15e056de"
+        "": "9b74bba87ee3644d861bfd46f8fee4ed74462b64"
       },
       "stats.json": {
         "": "800a6eaf179bbe3101de47a612b393ba5ea9d3c0"
       },
-      "0438-find-all-anagrams-in-a-string": {
-        "difficulty": "medium",
-        "0438-find-all-anagrams-in-a-string.py": "0dff87254829c38c67f365be1c05640913875795",
-        "README.md": "764ee87ef07ae2d5d320b9f8190d7cb37831da95"
+      "0203-remove-linked-list-elements": {
+        "difficulty": "easy",
+        "0203-remove-linked-list-elements.py": "9e887be92eb256664fe26a29b4fc453a41da23c2",
+        "README.md": "34f3492b69da43942d231762f6c4847504ee02cd"
       }
     },
-    "solved": 58
+    "solved": 59
   }
 }
