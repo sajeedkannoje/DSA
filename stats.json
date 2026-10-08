@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 35,
     "hard": 1,
-    "medium": 21,
+    "medium": 22,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
@@ -184,6 +184,11 @@
         "README.md": "31fdb8a3d8722f2c498d625f3aa101fd165c5888",
         "difficulty": "medium"
       },
+      "0202-happy-number": {
+        "0202-happy-number.py": "6d0aaddd2728e319bc834fb0f9669d8a045996eb",
+        "README.md": "8ce8aaa3b2ee1d8865febb5c904433e36f9c6b74",
+        "difficulty": "easy"
+      },
       "0206-reverse-linked-list": {
         "0206-reverse-linked-list.py": "60e3805da2df8f6f97a248997cba3f40ed155841",
         "README.md": "16b76d7c1eef3e00f3b27de2e7c3ddd9a1d2d371",
@@ -285,17 +290,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "c9687ab7c013da4e2c358da10330310b7b3732ba"
+        "": "41b2f3c3c9bf5c844d0e7cd3af9e53dc15e056de"
       },
       "stats.json": {
         "": "800a6eaf179bbe3101de47a612b393ba5ea9d3c0"
       },
-      "0202-happy-number": {
-        "difficulty": "easy",
-        "0202-happy-number.py": "6d0aaddd2728e319bc834fb0f9669d8a045996eb",
-        "README.md": "8ce8aaa3b2ee1d8865febb5c904433e36f9c6b74"
+      "0438-find-all-anagrams-in-a-string": {
+        "difficulty": "medium",
+        "0438-find-all-anagrams-in-a-string.py": "0dff87254829c38c67f365be1c05640913875795",
+        "README.md": "764ee87ef07ae2d5d320b9f8190d7cb37831da95"
       }
     },
-    "solved": 57
+    "solved": 58
   }
 }
