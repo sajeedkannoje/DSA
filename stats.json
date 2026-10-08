@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 14,
+    "easy": 15,
     "hard": 0,
     "medium": 7,
     "shas": {
@@ -47,6 +47,11 @@
       "0070-climbing-stairs": {
         "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
         "README.md": "441da42286d2257ec2a78abb6d27754add9722fd",
+        "difficulty": "easy"
+      },
+      "0083-remove-duplicates-from-sorted-list": {
+        "0083-remove-duplicates-from-sorted-list.py": "51d91107ceabf79d503603c83c99eeb08f8b2e72",
+        "README.md": "8c60be9c53d272c510f5fef76b3d769fba5f06e3",
         "difficulty": "easy"
       },
       "0125-valid-palindrome": {
@@ -105,17 +110,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "d7676e08ce9a2b48150fc4c1cdc73f30c0c56fd8"
+        "": "e7ccb783dde90840d90a840b149d9e3aeae95b44"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0083-remove-duplicates-from-sorted-list": {
+      "0876-middle-of-the-linked-list": {
         "difficulty": "easy",
-        "0083-remove-duplicates-from-sorted-list.py": "51d91107ceabf79d503603c83c99eeb08f8b2e72",
-        "README.md": "8c60be9c53d272c510f5fef76b3d769fba5f06e3"
+        "0876-middle-of-the-linked-list.py": "ebb82bb1de0610eebce4b1c0ab29dee39f333609",
+        "README.md": "ed475b8f78a2d85f317aff22ab1949afcf6ebe38"
       }
     },
-    "solved": 21
+    "solved": 22
   }
 }

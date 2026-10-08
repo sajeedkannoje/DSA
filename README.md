@@ -47,6 +47,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/sajeedkannoje/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
