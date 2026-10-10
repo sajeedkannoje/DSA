@@ -86,6 +86,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0187-repeated-dna-sequences](https://github.com/sajeedkannoje/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/sajeedkannoje/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sajeedkannoje/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
@@ -121,6 +122,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/sajeedkannoje/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/sajeedkannoje/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -129,6 +131,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sajeedkannoje/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sajeedkannoje/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
