@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 15,
     "hard": 0,
-    "medium": 8,
+    "medium": 9,
     "shas": {
       "0002-add-two-numbers": {
         "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
@@ -43,6 +43,11 @@
         "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
         "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
         "difficulty": "easy"
+      },
+      "0034-find-first-and-last-position-of-element-in-sorted-array": {
+        "0034-find-first-and-last-position-of-element-in-sorted-array.py": "7ba20c4fc3cf4ae0430db40901d2ec3bf18b9e17",
+        "README.md": "afb3b12fe56b650a447a33c9852610df6165a739",
+        "difficulty": "medium"
       },
       "0070-climbing-stairs": {
         "0070-climbing-stairs.js": "47e26b232af5568dafa26781a4e56f2e98bbea6e",
@@ -115,17 +120,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "39c957c4f3e9b8b05d0d921a96a85ddebd96b265"
+        "": "b5a103003164b8b2a9441d571241015b73fc2309"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0034-find-first-and-last-position-of-element-in-sorted-array": {
+      "0073-set-matrix-zeroes": {
         "difficulty": "medium",
-        "0034-find-first-and-last-position-of-element-in-sorted-array.py": "7ba20c4fc3cf4ae0430db40901d2ec3bf18b9e17",
-        "README.md": "afb3b12fe56b650a447a33c9852610df6165a739"
+        "0073-set-matrix-zeroes.py": "3ac7565b22c7b7289f99f4c52b06b2a9a0a98fed",
+        "README.md": "373ae2e7769bcd5153eff0ae73bcbee9171aa297"
       }
     },
-    "solved": 23
+    "solved": 24
   }
 }
