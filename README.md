@@ -149,6 +149,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0004-median-of-two-sorted-arrays](https://github.com/sajeedkannoje/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
 ## Matrix
 |  |
 | ------- |
@@ -182,6 +183,10 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sajeedkannoje/DSA/tree/master/0146-lru-cache) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
 
 ---
