@@ -1,5 +1,23 @@
-# DSA
-Personal coding vault — accepted solutions synced with CodeVault Sync by Sajeed Kannoje.
+<div align="center">
+
+# 🧭 CodeVault
+
+### A structured knowledge base for coding questions, solutions, and problem-solving patterns.
+
+[![Repository](https://img.shields.io/badge/GitHub-CodeVault-181717?style=flat-square&logo=github)](https://github.com/sajeedkannoje/leetcode)
+[![Practice](https://img.shields.io/badge/Practice-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+**Solve with intent. Understand the pattern. Keep the lesson.**
+
+</div>
+
+---
+
+## 🎯 About this repository
+
+CodeVault is a version-controlled coding journal for LeetCode questions. Each solution keeps the code, the underlying idea, and useful review notes together.
+
+## 🗂️ Topic index
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -8,3 +26,26 @@ Personal coding vault — accepted solutions synced with CodeVault Sync by Sajee
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/sajeedkannoje/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
+
+---
+
+## 🧠 Problem-solving workflow
+
+1. **Understand** — restate the question, constraints, and output.
+2. **Recognize** — identify the pattern and why it fits.
+3. **Solve** — write a clear solution before optimizing.
+4. **Analyze** — record time and space complexity.
+5. **Validate** — cover normal and edge cases.
+6. **Review** — keep one takeaway for later revision.
+
+## 🔄 LeetCode → CodeVault workflow
+
+`Choose a question` → `Solve and test` → `Save the solution` → `Sync to GitHub` → `Review the pattern`
+
+<div align="center">
+
+**Build consistency, one question at a time.**
+
+<sub>Made with ♥ by Sajeed Kannoje · CodeVault</sub>
+
+</div>
