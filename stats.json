@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 19,
+    "easy": 20,
     "hard": 1,
     "medium": 11,
     "shas": {
@@ -94,6 +94,11 @@
         "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d",
         "difficulty": "easy"
       },
+      "0146-lru-cache": {
+        "0146-lru-cache.py": "158386e4b03a170ce3b88aaf3fcbab46d422c3a2",
+        "README.md": "6a8d80e4bfe2ded624aace57c0ddf14677245fa9",
+        "difficulty": "medium"
+      },
       "0151-reverse-words-in-a-string": {
         "0151-reverse-words-in-a-string.py": "beff5f00832d7d7d3194ccd7e5c21fe68e6bc7da",
         "README.md": "7df9afc733fb71579fabc6470e7661ef6b6f319e",
@@ -155,17 +160,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "961986fa7a18f5906181125177acf2697bfbfc2d"
+        "": "2765049d343f87e7ca3aeaedf0aef506fa081002"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0146-lru-cache": {
-        "difficulty": "medium",
-        "0146-lru-cache.py": "158386e4b03a170ce3b88aaf3fcbab46d422c3a2",
-        "README.md": "6a8d80e4bfe2ded624aace57c0ddf14677245fa9"
+      "0001-two-sum": {
+        "difficulty": "easy",
+        "0001-two-sum.py": "d2dc595d527fbeabd3f8990ba7e04d1907215e26",
+        "README.md": "c5ae2440722b84783aa386d28f5f42e495005bf9"
       }
     },
-    "solved": 31
+    "solved": 32
   }
 }
