@@ -2,11 +2,16 @@
   "leetcode": {
     "easy": 3,
     "hard": 0,
-    "medium": 1,
+    "medium": 2,
     "shas": {
       "0027-remove-element": {
         "0027-remove-element.py": "226d4067a72efe0bff5c93173cac3d9cfea2e1be",
         "README.md": "a70ebbd83082f934acb75e697c387b297425c048",
+        "difficulty": "easy"
+      },
+      "0141-linked-list-cycle": {
+        "0141-linked-list-cycle.py": "d82afb1bc427ba5b496042e71012d4706062cea6",
+        "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d",
         "difficulty": "easy"
       },
       "1621-number-of-sets-of-k-non-overlapping-line-segments": {
@@ -20,17 +25,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "2528e444fd7702ae533046b4360e8bb3d2f2b81b"
+        "": "22a318161efaa5577a0791e9e6d1f562f14f78c9"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0141-linked-list-cycle": {
-        "difficulty": "easy",
-        "0141-linked-list-cycle.py": "d82afb1bc427ba5b496042e71012d4706062cea6",
-        "README.md": "e3e206988a6c4f408480921327d1043a50c0a46d"
+      "0003-longest-substring-without-repeating-characters": {
+        "difficulty": "medium",
+        "0003-longest-substring-without-repeating-characters.py": "e6ab0c212c117913cd9ba146c64ce1d9a5d7e387",
+        "README.md": "49ea3bfcb92b637481942ae8c24dd7c2f96a335a"
       }
     },
-    "solved": 4
+    "solved": 5
   }
 }
