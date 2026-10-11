@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 15,
     "hard": 0,
-    "medium": 7,
+    "medium": 8,
     "shas": {
       "0002-add-two-numbers": {
         "0002-add-two-numbers.py": "6ead3f46949ee23b0ec3461dfb01e95d969dd352",
@@ -89,6 +89,11 @@
         "README.md": "5ccef7556bb603549c3228febe5168c4a041b182",
         "difficulty": "easy"
       },
+      "0876-middle-of-the-linked-list": {
+        "0876-middle-of-the-linked-list.py": "ebb82bb1de0610eebce4b1c0ab29dee39f333609",
+        "README.md": "ed475b8f78a2d85f317aff22ab1949afcf6ebe38",
+        "difficulty": "easy"
+      },
       "1148-article-views-i": {
         "1148-article-views-i.sql": "09fc2ba309c4e5c4cdd8dfe231c06f422043c690",
         "README.md": "400af45776b06b71d5dc059b3fa024a71e846361",
@@ -110,17 +115,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "e7ccb783dde90840d90a840b149d9e3aeae95b44"
+        "": "39c957c4f3e9b8b05d0d921a96a85ddebd96b265"
       },
       "stats.json": {
         "": "de364cb936dacd91b7e4f5cadff48a1a16e0c4f8"
       },
-      "0876-middle-of-the-linked-list": {
-        "difficulty": "easy",
-        "0876-middle-of-the-linked-list.py": "ebb82bb1de0610eebce4b1c0ab29dee39f333609",
-        "README.md": "ed475b8f78a2d85f317aff22ab1949afcf6ebe38"
+      "0034-find-first-and-last-position-of-element-in-sorted-array": {
+        "difficulty": "medium",
+        "0034-find-first-and-last-position-of-element-in-sorted-array.py": "7ba20c4fc3cf4ae0430db40901d2ec3bf18b9e17",
+        "README.md": "afb3b12fe56b650a447a33c9852610df6165a739"
       }
     },
-    "solved": 22
+    "solved": 23
   }
 }
