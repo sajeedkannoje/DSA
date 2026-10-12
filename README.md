@@ -46,6 +46,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
+| [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
