@@ -48,6 +48,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/sajeedkannoje/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
@@ -78,6 +79,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sajeedkannoje/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sajeedkannoje/DSA/tree/master/0146-lru-cache) |
+| [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
