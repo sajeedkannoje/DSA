@@ -108,6 +108,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0003-longest-substring-without-repeating-characters](https://github.com/sajeedkannoje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
@@ -125,6 +126,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0009-palindrome-number](https://github.com/sajeedkannoje/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sajeedkannoje/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
@@ -217,6 +219,14 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
 
 ---

@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 29,
+    "easy": 30,
     "hard": 1,
     "medium": 18,
     "shas": {
@@ -88,6 +88,11 @@
         "0036-valid-sudoku.py": "7fc7788e88226df29b1c70f146475f04ec35ec64",
         "README.md": "ef531ff3336ad56f9731cb5daff920b6e4f91f47",
         "difficulty": "medium"
+      },
+      "0066-plus-one": {
+        "0066-plus-one.py": "d89580fd770ccaff5ce062db48e78138609115a1",
+        "README.md": "e10fa84d013c86097b437891fa5b4ad9270430c8",
+        "difficulty": "easy"
       },
       "0069-sqrtx": {
         "0069-sqrtx.py": "acc52693cd00760e6f4e1b7aeefd2b936b1d9b75",
@@ -240,17 +245,17 @@
         "difficulty": "easy"
       },
       "README.md": {
-        "": "1ee7b20f8ebeff40ba7eb0a7811a578aec1c161b"
+        "": "0a7aa8e16a4d6891ae07e721d5d676121edc359b"
       },
       "stats.json": {
         "": "b78d9366890d7f0271dbe6f34f3156720307b07a"
       },
-      "0066-plus-one": {
+      "0067-add-binary": {
         "difficulty": "easy",
-        "0066-plus-one.py": "d89580fd770ccaff5ce062db48e78138609115a1",
-        "README.md": "e10fa84d013c86097b437891fa5b4ad9270430c8"
+        "0067-add-binary.py": "1eb4ec9f70b920f6849e1e134ef3db226c81f7f3",
+        "README.md": "781239a4b46b52098eb1f16c6630a087f7d81b2f"
       }
     },
-    "solved": 48
+    "solved": 49
   }
 }
