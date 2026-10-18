@@ -123,6 +123,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0007-reverse-integer](https://github.com/sajeedkannoje/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sajeedkannoje/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sajeedkannoje/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sajeedkannoje/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
@@ -162,6 +163,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0004-median-of-two-sorted-arrays](https://github.com/sajeedkannoje/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sajeedkannoje/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
@@ -209,6 +211,10 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
 
 ---
