@@ -232,14 +232,21 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sajeedkannoje/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/sajeedkannoje/DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sajeedkannoje/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/sajeedkannoje/DSA/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sajeedkannoje/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/sajeedkannoje/DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sajeedkannoje/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
 
 ---
