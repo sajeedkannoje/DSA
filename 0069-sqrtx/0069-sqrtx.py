@@ -1,11 +1,12 @@
 class Solution(object):
     def mySqrt(self, x):
-        if x < 2:
-            return x
-        
-        i = 2
-        while i * i <= x:
-            i += 1
-        
-        return i - 1
+        low = 1 
+        high = x
+        while low <= high:
+            mid = low + (high - low ) // 2
+            if mid*mid > x:
+                high  = mid - 1
+            else:
+             low = mid + 1
+        return high
         
