@@ -46,6 +46,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0036-valid-sudoku](https://github.com/sajeedkannoje/DSA/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/sajeedkannoje/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sajeedkannoje/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sajeedkannoje/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/sajeedkannoje/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0033-search-in-rotated-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sajeedkannoje/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/sajeedkannoje/DSA/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sajeedkannoje/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sajeedkannoje/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajeedkannoje/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
