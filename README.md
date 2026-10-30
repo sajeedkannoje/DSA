@@ -85,6 +85,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +113,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0067-add-binary](https://github.com/sajeedkannoje/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sajeedkannoje/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +121,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0219-contains-duplicate-ii](https://github.com/sajeedkannoje/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
