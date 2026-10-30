@@ -55,6 +55,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/sajeedkannoje/DSA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0438-find-all-anagrams-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
+| [0904-fruit-into-baskets](https://github.com/sajeedkannoje/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -135,6 +137,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0438-find-all-anagrams-in-a-string](https://github.com/sajeedkannoje/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sajeedkannoje/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sajeedkannoje/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sajeedkannoje/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajeedkannoje/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
