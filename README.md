@@ -56,6 +56,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0705-design-hashset](https://github.com/sajeedkannoje/DSA/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sajeedkannoje/DSA/tree/master/0904-fruit-into-baskets) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sajeedkannoje/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@ CodeVault is a version-controlled coding journal for LeetCode questions. Each so
 | [0278-first-bad-version](https://github.com/sajeedkannoje/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sajeedkannoje/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/sajeedkannoje/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sajeedkannoje/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
 | ------- |
